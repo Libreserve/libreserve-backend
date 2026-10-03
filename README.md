@@ -2,6 +2,13 @@
 
 Google OAuth authentication backend for EN.W platform.
 
+## Repositories
+
+- Frontend: https://github.com/Libreserve/coe-workshop.github.io
+- Backend: https://github.com/Libreserve/libreserve-backend
+- Infrastructure: https://github.com/Libreserve/libreserve-infra
+- Live: https://en-workshop.com
+
 ## 🚀 Quick Start
 
 ### Prerequisites
